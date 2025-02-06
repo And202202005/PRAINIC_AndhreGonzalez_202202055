@@ -5,7 +5,7 @@ Este documento contiene las respuestas realizadas por ChatGPT cuando se le dijo 
 ---
 
 ## **Imagen 1**
-![Descripción de la imagen 1](/Practica1/imagenes/1.jpg)
+![Descripción de la imagen 1](/Practica1/imagenes/1.JPG)
 
 ---
 
