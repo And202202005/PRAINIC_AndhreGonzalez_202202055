@@ -1,5 +1,7 @@
 # Manual de Comandos de Ubuntu
 
+**Autor: Fernando Andhre Gonzalez Espinoza - 202202055**
+
 ## 1. Navegación entre archivos y directorios
 
 ### `cd` - Cambiar de directorio
